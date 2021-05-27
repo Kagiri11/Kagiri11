@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Kagiri11
-- 👀 I’m interested in Android Development and Machine Learning 
-- 🌱 I’m currently learning BLoC to manage states in my application
-- 💞️ I’m looking to collaborate on Android, Go or Python projects
-- 📫 To reach me, call +254794362513 or email me charlesmaish423@gmail.com
+- 👋 Hi, I’m Kagiri
+- 👀 I’m interested in learning and  doing Android Development 
+- 💞️ I’m looking to collaborate on Android or Go related projects
+- 📫 Feel free to reach me
 
 <!---
 Kagiri11/Kagiri11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
