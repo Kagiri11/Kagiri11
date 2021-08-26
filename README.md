@@ -1,4 +1,4 @@
-## Hi there, it's Kagiri here
+## Hi there, it's Kagiri here, welcome
 
 - 👨🏾‍💻 Currently doing Android with Kotlin
 - ✌🏾 Looking for opportunities to collaborate on all android development related things
