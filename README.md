@@ -1,8 +1,8 @@
-## Hi there, it's Kagiri here, welcome
+## Hi there, it's Kagiri👨🏿 here, welcome
 
 - 👨🏾‍💻 Currently doing Android with Kotlin
-- ✌🏾 Looking for opportunities to collaborate on all android development related things
-- 📫 I'm available to answer your android related questions on any platform.
+- 🌱 Looking for opportunities to collaborate on all android development related things
+- ☎️ I'm available to answer your android related questions on any platform.
 
 
 <center>
