@@ -2,7 +2,6 @@
 
 - 👨🏾‍💻 Currently doing Android with Kotlin
 - 🌱 Looking for opportunities to collaborate on all android development related things
-- ☎️ I'm available to answer your android related questions on any platform.
 
 
 <center>
