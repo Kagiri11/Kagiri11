@@ -1,11 +1,8 @@
-## Hi there, it's Kagiri👨🏿 here, welcome
 
-- 👨🏾‍💻 Currently doing Android with Kotlin
-- 🌱 Looking for opportunities to collaborate on all android development related things
-
+<p align= "center"> Kotlin | Ktor | Android </p>
 
 <center>
-  <table>
+  <table align="center">
   <tr>
       <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Kagiri11&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
       <td><img width="330px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kagiri11&hide=html&layout=compact&theme=dark" /></td>
