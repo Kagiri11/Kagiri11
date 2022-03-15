@@ -1,5 +1,14 @@
 
-<p align= "center"> Kotlin | Ktor | Android </p>
+
+<center> 
+  <table align= "center">
+    <tr>
+      <td>
+       Kotlin | Ktor | Android
+      </td>
+    </tr>
+  </table>
+</center>
 
 <center>
   <table align="center">
