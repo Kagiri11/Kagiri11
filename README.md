@@ -2,6 +2,9 @@ Hi Kagiri here :v:
 
   <table align= "center">
     <tr>
+    <th colspan="3">What I do currently:</th>
+    </tr>
+    <tr>
       <td style="padding:10px">
       <img src="https://user-images.githubusercontent.com/59829833/183091907-c4bbf6c5-6793-4e92-b42d-567dd670ee02.svg" width="70" height= "70"/>
       </td>
