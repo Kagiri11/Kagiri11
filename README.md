@@ -1,14 +1,23 @@
+Hi Kagiri here :v: 
 
-
-<center> 
   <table align= "center">
     <tr>
-      <td>
-       Kotlin | Ktor | Android
+    <th colspan="3">What I do currently:</th>
+    </tr>
+    <tr>
+      <td style="padding:10px">
+      <img src="https://user-images.githubusercontent.com/59829833/183091907-c4bbf6c5-6793-4e92-b42d-567dd670ee02.svg" width="70" height= "70"/>
+      </td>
+      <td style="padding:10px">
+      <img src="https://user-images.githubusercontent.com/59829833/183093054-f1272500-04d5-4f91-a65f-3b387e5f28b5.png" width="70" height= "70"/>
+      </td>
+      <td style="padding:10px">
+      <img src="https://user-images.githubusercontent.com/59829833/183096163-37a26212-c5bf-4ab5-9a10-fa249b84dd02.png" width="70" height= "70"/>
       </td>
     </tr>
   </table>
-</center>
+
+
 
 <center>
   <table align="center">
