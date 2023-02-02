@@ -2,7 +2,7 @@ Hi Kagiri here :v:
 
   <table align= "center">
     <tr>
-    <th colspan="3">What I do currently:</th>
+    <th colspan="3">TOOLS OF TRADE</th>
     </tr>
     <tr>
       <td style="padding:10px">
@@ -17,16 +17,6 @@ Hi Kagiri here :v:
     </tr>
   </table>
 
-
-
-<center>
-  <table align="center">
-  <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Kagiri11&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-      <td><img width="330px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kagiri11&hide=html&layout=compact&theme=dark" /></td>
-  </tr>   
-</table>
-</center>
 
 <!---
 Kagiri11/Kagiri11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
